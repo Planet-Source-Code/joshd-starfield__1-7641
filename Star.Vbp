@@ -1,0 +1,15 @@
+Form=..\..\..\Visual Basic\3d\Stars\Stars.frm
+Module=Module1; Module1.bas
+ProjWinSize=0,665,244,124
+ProjWinShow=2
+HelpFile=""
+ExeName32="Space.Exe"
+Name="Project1"
+HelpContextID="0"
+StartMode=0
+VersionCompatible32="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
